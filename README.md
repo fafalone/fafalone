@@ -51,4 +51,4 @@ A 64bit update to my popular cTaskDialog class, which not only provides an easy-
 
 **[...and many more!](https://github.com/fafalone?tab=repositories)**
 
-Other projects include tbShellLib, which adds thousands of Windows interfaces and APIs to make programming in tB more like programming in C/C++ with Windows.h included, Color Emojis, basicNES -- a Nintendo emulator in pure BASIC, a PropertySheet demo, a control hosting IExplorerBrowser, and an in-progress Device Manager clone.
+Other projects include WinDevLib, which adds thousands of Windows interfaces and APIs to make programming in tB more like programming in C/C++ with Windows.h included, Color Emojis, basicNES -- a Nintendo emulator in pure BASIC, a PropertySheet demo, a control hosting IExplorerBrowser, and an in-progress Device Manager clone.
