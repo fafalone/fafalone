@@ -16,6 +16,11 @@ These are my ucShellBrowse and ucShellTree controls, now with x64 compatibility 
 
 ![image](https://github.com/fafalone/fafalone/assets/7834493/3780f7b2-736b-4dde-8dc2-3461b365c9b7)
 
+### [QuickRename Extension](https://github.com/fafalone/QuickRenameExt)
+
+Easy to make shell extensions are back! With tB able to compile 64bit binaries, you can once again very easily make shell extensions for Windows Explorer.
+
+![image](https://github.com/user-attachments/assets/f29fb41f-6d3e-49da-8d14-bce3089c16d7)
 
 ### [Lems64](https://github.com/fafalone/Lems64)
 
