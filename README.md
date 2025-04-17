@@ -30,7 +30,7 @@ Lemmings was one of my favorite games as a kid. Carles PV recreated it in pure V
 
 ### [UI Ribbon Demos](https://github.com/fafalone/UIRibbonDemos)
 
-A modern language should take advantage of modern UI elements, right? This repository has 3 demos, a beginner proof of concept and two intermediate level demos (advanced still being worked on!)
+A modern language should take advantage of modern UI elements, right? This repository has 3 demos, a beginner proof of concept and two intermediate level demos, with a super cool [Advanced Demo](https://github.com/fafalone/UIRibbonDemoAdvanced) now in it's own repo.
 
 ![image](https://github.com/fafalone/fafalone/assets/7834493/7f6b3819-0fba-4a79-b834-29e693ed20bd)
 
